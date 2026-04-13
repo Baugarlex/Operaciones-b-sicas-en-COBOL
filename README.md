@@ -4,10 +4,11 @@ El siguiente programa de COBOL le pregunta al usuario que operación desea hacer
 
 ## Condiciones para su funcionamiento
 
+- **En el caso de que**
 - **Preferiblemente personalizar los datos a los de uno mismo que vienen en** `IDENTIFICATION DIVISION.`
 ```bash
 IDENTIFICATION DIVISION.
-    PROGRAM-ID. Base_De_Datos.
+    PROGRAM-ID. Operaciones_Basicas.
     AUTHOR. Alex_Dan
     INSTALLATION. C:\Users\Alex\Dividiones.cbl
     DATE-WRITTEN. 04/05/2024
